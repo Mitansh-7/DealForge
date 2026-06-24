@@ -1,0 +1,3646 @@
+{
+    "last_updated": "2026-06-24T17:53:14Z",
+    "deals": [
+        {
+            "appid": "1091500",
+            "title": "Cyberpunk 2077",
+            "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/590e0988a2fb79f44d3e31e41fd4949eb76abc41/capsule_231x87.jpg?t=1769690377",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹899.00",
+            "final_price_val": 899.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 88,
+            "rating_count": 377306,
+            "tag_ids": [
+                4115,
+                1695,
+                6650,
+                122,
+                4182,
+                1742,
+                3942
+            ],
+            "tags": [
+                "Cyberpunk",
+                "Open World",
+                "Nudity",
+                "RPG",
+                "Singleplayer",
+                "Story Rich",
+                "Sci-fi"
+            ]
+        },
+        {
+            "appid": "381210",
+            "title": "Dead by Daylight",
+            "link": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/738c546b967d2c340c918fb33bb503d7c794c530/capsule_231x87_alt_assets_8.jpg?t=1782245493",
+            "discount_pct": "-60%",
+            "discount_val": 60,
+            "original_price": "₹1,159.00",
+            "original_price_val": 1159.0,
+            "final_price": "₹463.00",
+            "final_price_val": 463.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 258761,
+            "tag_ids": [
+                1667,
+                3859,
+                3978,
+                4345,
+                3843,
+                1685,
+                1662
+            ],
+            "tags": [
+                "Horror",
+                "Multiplayer",
+                "Survival Horror",
+                "Gore",
+                "Online Co-Op",
+                "Co-op",
+                "Survival"
+            ]
+        },
+        {
+            "appid": "3405690",
+            "title": "EA SPORTS FC™ 26",
+            "link": "https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/b1345663febf4f26fe4744115e8e459da3e9ee2c/capsule_231x87.jpg?t=1781720918",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹750.00",
+            "original_price_val": 750.0,
+            "final_price": "₹150.00",
+            "final_price_val": 150.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 48,
+            "rating_count": 21751,
+            "tag_ids": [
+                1254546,
+                3859,
+                701,
+                7481,
+                599,
+                4182,
+                3841
+            ],
+            "tags": [
+                "Football (Soccer)",
+                "Multiplayer",
+                "Sports",
+                "Controller",
+                "Simulation",
+                "Singleplayer",
+                "Local Co-Op"
+            ]
+        },
+        {
+            "appid": "2138330",
+            "title": "Cyberpunk 2077: Phantom Liberty",
+            "link": "https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/3d2b6a051a7e2fc4ff654d95d6876c24d6dda13d/capsule_231x87.jpg?t=1768305060",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹1,499.00",
+            "original_price_val": 1499.0,
+            "final_price": "₹899.00",
+            "final_price_val": 899.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 10606,
+            "tag_ids": [
+                122,
+                12095,
+                1695,
+                4115,
+                1742,
+                6650,
+                4182
+            ],
+            "tags": [
+                "RPG",
+                "Sexual Content",
+                "Open World",
+                "Cyberpunk",
+                "Story Rich",
+                "Nudity",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "292030",
+            "title": "The Witcher 3: Wild Hunt",
+            "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/abf6e7b3b01ed20c35a8dc0a009a8f9fc3e57b93/capsule_231x87.jpg?t=1768303991",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹1,799.00",
+            "original_price_val": 1799.0,
+            "final_price": "₹179.00",
+            "final_price_val": 179.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 236874,
+            "tag_ids": [
+                1695,
+                122,
+                1742,
+                4166,
+                1684,
+                21,
+                4182
+            ],
+            "tags": [
+                "Open World",
+                "RPG",
+                "Story Rich",
+                "Atmospheric",
+                "Fantasy",
+                "Adventure",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "2420110",
+            "title": "Horizon Forbidden West™ Complete Edition",
+            "link": "https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2420110/capsule_231x87.jpg?t=1776465869",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹3,999.00",
+            "original_price_val": 3999.0,
+            "final_price": "₹1,999.00",
+            "final_price_val": 1999.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 87,
+            "rating_count": 10703,
+            "tag_ids": [
+                1695,
+                4182,
+                7208,
+                19,
+                3834,
+                1742,
+                122
+            ],
+            "tags": [
+                "Open World",
+                "Singleplayer",
+                "Female Protagonist",
+                "Action",
+                "Exploration",
+                "Story Rich",
+                "RPG"
+            ]
+        },
+        {
+            "appid": "1462040",
+            "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+            "link": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg?t=1773895755",
+            "discount_pct": "-65%",
+            "discount_val": 65,
+            "original_price": "₹2,499.00",
+            "original_price_val": 2499.0,
+            "final_price": "₹874.00",
+            "final_price_val": 874.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 87,
+            "rating_count": 19440,
+            "tag_ids": [
+                122,
+                4231,
+                4434,
+                4182,
+                4106,
+                10695,
+                4777
+            ],
+            "tags": [
+                "RPG",
+                "Action RPG",
+                "JRPG",
+                "Singleplayer",
+                "Action-Adventure",
+                "Party-Based RPG",
+                "Spectacle fighter"
+            ]
+        },
+        {
+            "appid": "292030,378649,378648",
+            "title": "The Witcher 3: Wild Hunt - Complete Edition",
+            "link": "https://store.steampowered.com/sub/124923/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/124923/1bb5e5dd4a5c78b4d7d623d6328f54cae412d486/capsule_231x87.jpg?t=1775042338",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹2,399.00",
+            "original_price_val": 2399.0,
+            "final_price": "₹479.00",
+            "final_price_val": 479.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 825453,
+            "tag_ids": [
+                122,
+                1695,
+                1742,
+                4166,
+                1684,
+                21,
+                4182
+            ],
+            "tags": [
+                "RPG",
+                "Open World",
+                "Story Rich",
+                "Atmospheric",
+                "Fantasy",
+                "Adventure",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "1374490",
+            "title": "RuneScape: Dragonwilds",
+            "link": "https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/3ed6d685fa5d122226036fdabcbb1def7bd22476/capsule_231x87_alt_assets_2.jpg?t=1782209165",
+            "discount_pct": "-30%",
+            "discount_val": 30,
+            "original_price": "₹1,700.00",
+            "original_price_val": 1700.0,
+            "final_price": "₹1,190.00",
+            "final_price_val": 1190.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 81,
+            "rating_count": 20062,
+            "tag_ids": [
+                1695,
+                1662,
+                1100689,
+                3859,
+                1685,
+                3843,
+                493
+            ],
+            "tags": [
+                "Open World",
+                "Survival",
+                "Open World Survival Craft",
+                "Multiplayer",
+                "Co-op",
+                "Online Co-Op",
+                "Early Access"
+            ]
+        },
+        {
+            "appid": "252490",
+            "title": "Rust",
+            "link": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg?t=1781536981",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹1,799.00",
+            "original_price_val": 1799.0,
+            "final_price": "₹899.00",
+            "final_price_val": 899.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 86,
+            "rating_count": 524588,
+            "tag_ids": [
+                1662,
+                1702,
+                3859,
+                1695,
+                1100689,
+                1643,
+                1775
+            ],
+            "tags": [
+                "Survival",
+                "Crafting",
+                "Multiplayer",
+                "Open World",
+                "Open World Survival Craft",
+                "Building",
+                "PvP"
+            ]
+        },
+        {
+            "appid": "4323990",
+            "title": "EMPULSE",
+            "link": "https://store.steampowered.com/app/4323990/EMPULSE/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4323990/8870476a72c8cee5a6f5c299f9e8189e24067115/capsule_231x87.jpg?t=1782317659",
+            "discount_pct": "-25%",
+            "discount_val": 25,
+            "original_price": "₹949.00",
+            "original_price_val": 949.0,
+            "final_price": "₹711.00",
+            "final_price_val": 711.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 50,
+            "rating_count": 16,
+            "tag_ids": [
+                1774,
+                19,
+                1663,
+                3859,
+                4821,
+                5765,
+                5711
+            ],
+            "tags": [
+                "Shooter",
+                "Action",
+                "FPS",
+                "Multiplayer",
+                "Mechs",
+                "Gun Customization",
+                "Team-Based"
+            ]
+        },
+        {
+            "appid": "1868140",
+            "title": "DAVE THE DIVER",
+            "link": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/e44159a6624c2ebc8d679a859756c004427400a9/capsule_231x87_alt_assets_2.jpg?t=1782191386",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹880.00",
+            "original_price_val": 880.0,
+            "final_price": "₹440.00",
+            "final_price_val": 440.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 48972,
+            "tag_ids": [
+                3964,
+                12472,
+                597,
+                21,
+                1654,
+                3834,
+                15564
+            ],
+            "tags": [
+                "Pixel Graphics",
+                "Management",
+                "Casual",
+                "Adventure",
+                "Relaxing",
+                "Exploration",
+                "Fishing"
+            ]
+        },
+        {
+            "appid": "518790",
+            "title": "theHunter: Call of the Wild™",
+            "link": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/e61765276d5144543502ac042de87837913d1d0c/capsule_231x87_alt_assets_13.jpg?t=1781679235",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹880.00",
+            "original_price_val": 880.0,
+            "final_price": "₹88.00",
+            "final_price_val": 88.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 62714,
+            "tag_ids": [
+                9564,
+                1695,
+                3859,
+                30358,
+                1654,
+                1687,
+                1663
+            ],
+            "tags": [
+                "Hunting",
+                "Open World",
+                "Multiplayer",
+                "Nature",
+                "Relaxing",
+                "Stealth",
+                "FPS"
+            ]
+        },
+        {
+            "appid": "1431300",
+            "title": "SAND: Raiders of Sophie",
+            "link": "https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1431300/0b13e08fe57ae627ff10041d391db052be49557d/capsule_231x87.jpg?t=1782290789",
+            "discount_pct": "-21%",
+            "discount_val": 21,
+            "original_price": "₹509.00",
+            "original_price_val": 509.0,
+            "final_price": "₹402.00",
+            "final_price_val": 402.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 58,
+            "rating_count": 1923,
+            "tag_ids": [
+                493,
+                1775,
+                1199779,
+                11104,
+                176981,
+                1681,
+                1695
+            ],
+            "tags": [
+                "Early Access",
+                "PvP",
+                "Extraction Shooter",
+                "Vehicular Combat",
+                "Battle Royale",
+                "Pirates",
+                "Open World"
+            ]
+        },
+        {
+            "appid": "281990",
+            "title": "Stellaris",
+            "link": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/4b91f40b66654c48f3aae249ca95baf97bb7b6cb/capsule_231x87_alt_assets_12.jpg?t=1782139685",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹3,139.00",
+            "original_price_val": 3139.0,
+            "final_price": "₹941.00",
+            "final_price_val": 941.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 86,
+            "rating_count": 75994,
+            "tag_ids": [
+                1755,
+                9,
+                4364,
+                3942,
+                1670,
+                3834,
+                3810
+            ],
+            "tags": [
+                "Space",
+                "Strategy",
+                "Grand Strategy",
+                "Sci-fi",
+                "4X",
+                "Exploration",
+                "Sandbox"
+            ]
+        },
+        {
+            "appid": "322330",
+            "title": "Don't Starve Together",
+            "link": "https://store.steampowered.com/app/322330/Dont_Starve_Together/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/670165a4bf515335ff0e1eb9362b9b844ff06d6d/capsule_231x87_alt_assets_50.jpg?t=1781363712",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹459.00",
+            "original_price_val": 459.0,
+            "final_price": "₹45.00",
+            "final_price_val": 45.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 81266,
+            "tag_ids": [
+                1662,
+                1100689,
+                3859,
+                1685,
+                1695,
+                21,
+                1702
+            ],
+            "tags": [
+                "Survival",
+                "Open World Survival Craft",
+                "Multiplayer",
+                "Co-op",
+                "Open World",
+                "Adventure",
+                "Crafting"
+            ]
+        },
+        {
+            "appid": "394360",
+            "title": "Hearts of Iron IV",
+            "link": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/08a0a8f6c28071017611aa39b835c193a27f2518/capsule_231x87.jpg?t=1781595476",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹3,139.00",
+            "original_price_val": 3139.0,
+            "final_price": "₹627.00",
+            "final_price_val": 627.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 122689,
+            "tag_ids": [
+                9,
+                4150,
+                4364,
+                1678,
+                3987,
+                4168,
+                4598
+            ],
+            "tags": [
+                "Strategy",
+                "World War II",
+                "Grand Strategy",
+                "War",
+                "Historical",
+                "Military",
+                "Alternate History"
+            ]
+        },
+        {
+            "appid": "2416450",
+            "title": "MOUSE: P.I. For Hire",
+            "link": "https://store.steampowered.com/app/2416450/MOUSE_PI_For_Hire/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416450/772ae02fc6ab5734887bc6621ed5cf7bcc739050/capsule_231x87.jpg?t=1780271651",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹1,300.00",
+            "original_price_val": 1300.0,
+            "final_price": "₹1,040.00",
+            "final_price_val": 1040.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 94,
+            "rating_count": 7874,
+            "tag_ids": [
+                1663,
+                19,
+                4195,
+                1023537,
+                5613,
+                6052,
+                3839
+            ],
+            "tags": [
+                "FPS",
+                "Action",
+                "Cartoony",
+                "Boomer Shooter",
+                "Detective",
+                "Noir",
+                "First-Person"
+            ]
+        },
+        {
+            "appid": "2001120",
+            "title": "Split Fiction",
+            "link": "https://store.steampowered.com/app/2001120/Split_Fiction/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg?t=1763484567",
+            "discount_pct": "-35%",
+            "discount_val": 35,
+            "original_price": "₹2,499.00",
+            "original_price_val": 2499.0,
+            "final_price": "₹1,624.00",
+            "final_price_val": 1624.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 22813,
+            "tag_ids": [
+                1685,
+                10816,
+                3841,
+                7208,
+                3843,
+                4106,
+                5395
+            ],
+            "tags": [
+                "Co-op",
+                "Split Screen",
+                "Local Co-Op",
+                "Female Protagonist",
+                "Online Co-Op",
+                "Action-Adventure",
+                "3D Platformer"
+            ]
+        },
+        {
+            "appid": "3472040",
+            "title": "NBA 2K26",
+            "link": "https://store.steampowered.com/app/3472040/NBA_2K26/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/8496e0023f3b24c9bf87e1459cb9651f5a7a6732/capsule_231x87_alt_assets_5.jpg?t=1782139068",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹4,599.00",
+            "original_price_val": 4599.0,
+            "final_price": "₹919.00",
+            "final_price_val": 919.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 72,
+            "rating_count": 11614,
+            "tag_ids": [
+                701,
+                1746,
+                599,
+                4191,
+                5055,
+                3859,
+                7481
+            ],
+            "tags": [
+                "Sports",
+                "Basketball",
+                "Simulation",
+                "3D",
+                "eSports",
+                "Multiplayer",
+                "Controller"
+            ]
+        },
+        {
+            "appid": "1693980",
+            "title": "Dead Space",
+            "link": "https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_231x87.jpg?t=1777396576",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹299.00",
+            "final_price_val": 299.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 30393,
+            "tag_ids": [
+                1667,
+                3814,
+                3978,
+                1755,
+                3942,
+                4182,
+                1721
+            ],
+            "tags": [
+                "Horror",
+                "Third-Person Shooter",
+                "Survival Horror",
+                "Space",
+                "Sci-fi",
+                "Singleplayer",
+                "Psychological Horror"
+            ]
+        },
+        {
+            "appid": "346010",
+            "title": "Besiege",
+            "link": "https://store.steampowered.com/app/346010/Besiege/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346010/2a30529160cc039d9f281e59deef69f8a9fe8b08/capsule_231x87_alt_assets_3.jpg?t=1782312801",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹529.00",
+            "original_price_val": 529.0,
+            "final_price": "₹53.00",
+            "final_price_val": 53.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 94,
+            "rating_count": 23050,
+            "tag_ids": [
+                599,
+                3810,
+                3968,
+                5363,
+                4172,
+                1643,
+                1669
+            ],
+            "tags": [
+                "Simulation",
+                "Sandbox",
+                "Physics",
+                "Destruction",
+                "Medieval",
+                "Building",
+                "Moddable"
+            ]
+        },
+        {
+            "appid": "35140,200260,208650,367480",
+            "title": "Batman: Arkham Collection",
+            "link": "https://store.steampowered.com/sub/320795/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/320795/capsule_231x87.jpg?t=1775683257",
+            "discount_pct": "-85%",
+            "discount_val": 85,
+            "original_price": "₹1,349.00",
+            "original_price_val": 1349.0,
+            "final_price": "₹202.00",
+            "final_price_val": 202.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 94,
+            "rating_count": 223488,
+            "tag_ids": [
+                19,
+                1687,
+                1695,
+                1671,
+                21,
+                1697,
+                4182
+            ],
+            "tags": [
+                "Action",
+                "Stealth",
+                "Open World",
+                "Superhero",
+                "Adventure",
+                "Third Person",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "1426210",
+            "title": "It Takes Two",
+            "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg?t=1777395376",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹2,199.00",
+            "original_price_val": 2199.0,
+            "final_price": "₹659.00",
+            "final_price_val": 659.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 47078,
+            "tag_ids": [
+                1685,
+                3859,
+                10816,
+                3841,
+                3843,
+                1664,
+                21
+            ],
+            "tags": [
+                "Co-op",
+                "Multiplayer",
+                "Split Screen",
+                "Local Co-Op",
+                "Online Co-Op",
+                "Puzzle",
+                "Adventure"
+            ]
+        },
+        {
+            "appid": "949230",
+            "title": "Cities: Skylines II",
+            "link": "https://store.steampowered.com/app/949230/Cities_Skylines_II/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/2b264fcfffbdc89083c626e70d8e5f0b352672a9/capsule_231x87.jpg?t=1781017670",
+            "discount_pct": "-30%",
+            "discount_val": 30,
+            "original_price": "₹3,139.00",
+            "original_price_val": 3139.0,
+            "final_price": "₹2,197.00",
+            "final_price_val": 2197.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 56,
+            "rating_count": 33532,
+            "tag_ids": [
+                4328,
+                599,
+                1643,
+                3810,
+                12472,
+                4182,
+                4695
+            ],
+            "tags": [
+                "City Builder",
+                "Simulation",
+                "Building",
+                "Sandbox",
+                "Management",
+                "Singleplayer",
+                "Economy"
+            ]
+        },
+        {
+            "appid": "221100",
+            "title": "DayZ",
+            "link": "https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/capsule_231x87.jpg?t=1769695513",
+            "discount_pct": "-55%",
+            "discount_val": 55,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,574.00",
+            "final_price_val": 1574.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 74,
+            "rating_count": 176562,
+            "tag_ids": [
+                1662,
+                1695,
+                1659,
+                3843,
+                3859,
+                3835,
+                1774
+            ],
+            "tags": [
+                "Survival",
+                "Open World",
+                "Zombies",
+                "Online Co-Op",
+                "Multiplayer",
+                "Post-apocalyptic",
+                "Shooter"
+            ]
+        },
+        {
+            "appid": "2909400",
+            "title": "FINAL FANTASY VII REBIRTH",
+            "link": "https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/159fb57397e436d35ae20ba0f62ba7a7f2974cb9/capsule_231x87.jpg?t=1775124617",
+            "discount_pct": "-60%",
+            "discount_val": 60,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,399.00",
+            "final_price_val": 1399.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 12132,
+            "tag_ids": [
+                122,
+                19,
+                21,
+                4434,
+                1695,
+                4182,
+                4231
+            ],
+            "tags": [
+                "RPG",
+                "Action",
+                "Adventure",
+                "JRPG",
+                "Open World",
+                "Singleplayer",
+                "Action RPG"
+            ]
+        },
+        {
+            "appid": "2958130",
+            "title": "Jurassic World Evolution 3",
+            "link": "https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1781616104",
+            "discount_pct": "-33%",
+            "discount_val": 33,
+            "original_price": "₹2,974.00",
+            "original_price_val": 2974.0,
+            "final_price": "₹1,992.00",
+            "final_price_val": 1992.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 93,
+            "rating_count": 6367,
+            "tag_ids": [
+                599,
+                5160,
+                9,
+                3810,
+                4328,
+                5230,
+                19
+            ],
+            "tags": [
+                "Simulation",
+                "Dinosaurs",
+                "Strategy",
+                "Sandbox",
+                "City Builder",
+                "Sequel",
+                "Action"
+            ]
+        },
+        {
+            "appid": "1151640",
+            "title": "Horizon Zero Dawn™ Complete Edition",
+            "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg?t=1776465788",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹1,799.00",
+            "final_price_val": 1799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 89,
+            "rating_count": 51636,
+            "tag_ids": [
+                1695,
+                21,
+                7208,
+                4182,
+                1742,
+                122,
+                19
+            ],
+            "tags": [
+                "Open World",
+                "Adventure",
+                "Female Protagonist",
+                "Singleplayer",
+                "Story Rich",
+                "RPG",
+                "Action"
+            ]
+        },
+        {
+            "appid": "2114740",
+            "title": "Blasphemous 2",
+            "link": "https://store.steampowered.com/app/2114740/Blasphemous_2/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2114740/856662cd98b3fbd4abd1ebd6d5a480c7f09612e4/capsule_231x87_alt_assets_2.jpg?t=1781194759",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹2,399.00",
+            "original_price_val": 2399.0,
+            "final_price": "₹599.00",
+            "final_price_val": 599.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 5395,
+            "tag_ids": [
+                4026,
+                3993,
+                1684,
+                1628,
+                29482,
+                21,
+                3964
+            ],
+            "tags": [
+                "Difficult",
+                "Combat",
+                "Fantasy",
+                "Metroidvania",
+                "Souls-like",
+                "Adventure",
+                "Pixel Graphics"
+            ]
+        },
+        {
+            "appid": "208650",
+            "title": "Batman™: Arkham Knight",
+            "link": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg?t=1745534372",
+            "discount_pct": "-85%",
+            "discount_val": 85,
+            "original_price": "₹1,349.00",
+            "original_price_val": 1349.0,
+            "final_price": "₹202.00",
+            "final_price_val": 202.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 49998,
+            "tag_ids": [
+                19,
+                1695,
+                1671,
+                1687,
+                4182,
+                1697,
+                21
+            ],
+            "tags": [
+                "Action",
+                "Open World",
+                "Superhero",
+                "Stealth",
+                "Singleplayer",
+                "Third Person",
+                "Adventure"
+            ]
+        },
+        {
+            "appid": "1874880",
+            "title": "Arma Reforger",
+            "link": "https://store.steampowered.com/app/1874880/Arma_Reforger/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874880/capsule_231x87.jpg?t=1779966148",
+            "discount_pct": "-30%",
+            "discount_val": 30,
+            "original_price": "₹2,599.00",
+            "original_price_val": 2599.0,
+            "final_price": "₹1,819.00",
+            "final_price_val": 1819.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 29455,
+            "tag_ids": [
+                4168,
+                599,
+                1774,
+                4175,
+                1663,
+                19,
+                9
+            ],
+            "tags": [
+                "Military",
+                "Simulation",
+                "Shooter",
+                "Realistic",
+                "FPS",
+                "Action",
+                "Strategy"
+            ]
+        },
+        {
+            "appid": "1716740",
+            "title": "Starfield",
+            "link": "https://store.steampowered.com/app/1716740/Starfield/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg?t=1778168061",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹2,799.00",
+            "final_price_val": 2799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 57,
+            "rating_count": 85181,
+            "tag_ids": [
+                1755,
+                1695,
+                4182,
+                122,
+                3942,
+                3834,
+                4747
+            ],
+            "tags": [
+                "Space",
+                "Open World",
+                "Singleplayer",
+                "RPG",
+                "Sci-fi",
+                "Exploration",
+                "Character Customization"
+            ]
+        },
+        {
+            "appid": "2185060",
+            "title": "Two Point Museum",
+            "link": "https://store.steampowered.com/app/2185060/Two_Point_Museum/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2185060/39af5f1d2a30ca59c8b5302616183ff902322ddd/capsule_231x87.jpg?t=1782285831",
+            "discount_pct": "-33%",
+            "discount_val": 33,
+            "original_price": "₹1,999.00",
+            "original_price_val": 1999.0,
+            "final_price": "₹1,339.00",
+            "final_price_val": 1339.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 4751,
+            "tag_ids": [
+                599,
+                597,
+                1643,
+                9,
+                4328,
+                3810,
+                10235
+            ],
+            "tags": [
+                "Simulation",
+                "Casual",
+                "Building",
+                "Strategy",
+                "City Builder",
+                "Sandbox",
+                "Life Sim"
+            ]
+        },
+        {
+            "appid": "2486820",
+            "title": "Sonic Racing: CrossWorlds",
+            "link": "https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486820/4c049713e68cccbdf6bd58bf8c769ff108961cfc/capsule_231x87_alt_assets_9.jpg?t=1782197009",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹5,699.00",
+            "original_price_val": 5699.0,
+            "final_price": "₹2,849.00",
+            "final_price_val": 2849.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 94,
+            "rating_count": 7980,
+            "tag_ids": [
+                699,
+                3859,
+                5350,
+                4102,
+                4182,
+                7368,
+                4106
+            ],
+            "tags": [
+                "Racing",
+                "Multiplayer",
+                "Family Friendly",
+                "Combat Racing",
+                "Singleplayer",
+                "Local Multiplayer",
+                "Action-Adventure"
+            ]
+        },
+        {
+            "appid": "2352620",
+            "title": "Fellowship",
+            "link": "https://store.steampowered.com/app/2352620/Fellowship/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2352620/c2ee9eedd999a03ae8d3f8e36b0ba53a2d26e00c/capsule_231x87_alt_assets_2.jpg?t=1782140326",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹1,100.00",
+            "original_price_val": 1100.0,
+            "final_price": "₹660.00",
+            "final_price_val": 660.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 9573,
+            "tag_ids": [
+                1720,
+                3843,
+                6730,
+                122,
+                10695,
+                4236,
+                1754
+            ],
+            "tags": [
+                "Dungeon Crawler",
+                "Online Co-Op",
+                "PvE",
+                "RPG",
+                "Party-Based RPG",
+                "Loot",
+                "MMORPG"
+            ]
+        },
+        {
+            "appid": "728880",
+            "title": "Overcooked! 2",
+            "link": "https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/capsule_231x87.jpg?t=1780480581",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹569.00",
+            "original_price_val": 569.0,
+            "final_price": "₹142.00",
+            "final_price_val": 142.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 93,
+            "rating_count": 14332,
+            "tag_ids": [
+                3859,
+                3841,
+                3843,
+                1685,
+                3920,
+                597,
+                4136
+            ],
+            "tags": [
+                "Multiplayer",
+                "Local Co-Op",
+                "Online Co-Op",
+                "Co-op",
+                "Cooking",
+                "Casual",
+                "Funny"
+            ]
+        },
+        {
+            "appid": "1812450",
+            "title": "Bellwright",
+            "link": "https://store.steampowered.com/app/1812450/Bellwright/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812450/c479dda6fcd1e9edf38fe18a02ca21aab153664e/capsule_231x87.jpg?t=1782172061",
+            "discount_pct": "-34%",
+            "discount_val": 34,
+            "original_price": "₹1,300.00",
+            "original_price_val": 1300.0,
+            "final_price": "₹858.00",
+            "final_price_val": 858.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 9762,
+            "tag_ids": [
+                1662,
+                1695,
+                4328,
+                4172,
+                1702,
+                3843,
+                3859
+            ],
+            "tags": [
+                "Survival",
+                "Open World",
+                "City Builder",
+                "Medieval",
+                "Crafting",
+                "Online Co-Op",
+                "Multiplayer"
+            ]
+        },
+        {
+            "appid": "3105440",
+            "title": "Heroes of Might and Magic: Olden Era",
+            "link": "https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1779786083",
+            "discount_pct": "-25%",
+            "discount_val": 25,
+            "original_price": "₹1,499.00",
+            "original_price_val": 1499.0,
+            "final_price": "₹1,124.00",
+            "final_price_val": 1124.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 87,
+            "rating_count": 5496,
+            "tag_ids": [
+                9,
+                1741,
+                122,
+                3859,
+                1684,
+                599,
+                1708
+            ],
+            "tags": [
+                "Strategy",
+                "Turn-Based Strategy",
+                "RPG",
+                "Multiplayer",
+                "Fantasy",
+                "Simulation",
+                "Tactical"
+            ]
+        },
+        {
+            "appid": "2561580",
+            "title": "Horizon Zero Dawn™ Remastered",
+            "link": "https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2561580/507f27b6be81658f406a42e269a2e4b065941ade/capsule_231x87.jpg?t=1750952943",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹1,799.00",
+            "final_price_val": 1799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 85,
+            "rating_count": 3194,
+            "tag_ids": [
+                4106,
+                1695,
+                7208,
+                1697,
+                3835,
+                4821,
+                1742
+            ],
+            "tags": [
+                "Action-Adventure",
+                "Open World",
+                "Female Protagonist",
+                "Third Person",
+                "Post-apocalyptic",
+                "Mechs",
+                "Story Rich"
+            ]
+        },
+        {
+            "appid": "3156770",
+            "title": "Witchfire",
+            "link": "https://store.steampowered.com/app/3156770/Witchfire/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156770/8534175074606b4c36191d3446d10d5e377dc6c3/capsule_231x87.jpg?t=1782205254",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹1,600.00",
+            "original_price_val": 1600.0,
+            "final_price": "₹1,280.00",
+            "final_price_val": 1280.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 10558,
+            "tag_ids": [
+                1663,
+                1199779,
+                4604,
+                29482,
+                3959,
+                1774,
+                122
+            ],
+            "tags": [
+                "FPS",
+                "Extraction Shooter",
+                "Dark Fantasy",
+                "Souls-like",
+                "Roguelite",
+                "Shooter",
+                "RPG"
+            ]
+        },
+        {
+            "appid": "3404260",
+            "title": "Dead as Disco",
+            "link": "https://store.steampowered.com/app/3404260/Dead_as_Disco/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg?t=1782153525",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹1,149.00",
+            "original_price_val": 1149.0,
+            "final_price": "₹919.00",
+            "final_price_val": 919.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 97,
+            "rating_count": 6052,
+            "tag_ids": [
+                493,
+                1752,
+                4158,
+                4777,
+                1646,
+                6915,
+                1621
+            ],
+            "tags": [
+                "Early Access",
+                "Rhythm",
+                "Beat 'em up",
+                "Spectacle fighter",
+                "Hack and Slash",
+                "Martial Arts",
+                "Music"
+            ]
+        },
+        {
+            "appid": "1313140",
+            "title": "Cult of the Lamb",
+            "link": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/1ac7c83bd1ce239a12d8e67b8ebc45765bb60319/capsule_231x87.jpg?t=1769836674",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹899.00",
+            "original_price_val": 899.0,
+            "final_price": "₹449.00",
+            "final_price_val": 449.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 59109,
+            "tag_ids": [
+                7332,
+                42804,
+                4726,
+                52406,
+                4182,
+                1720,
+                3959
+            ],
+            "tags": [
+                "Base Building",
+                "Action Roguelike",
+                "Cute",
+                "Cult",
+                "Singleplayer",
+                "Dungeon Crawler",
+                "Roguelite"
+            ]
+        },
+        {
+            "appid": "2515020",
+            "title": "FINAL FANTASY XVI",
+            "link": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/capsule_231x87.jpg?t=1773294537",
+            "discount_pct": "-60%",
+            "discount_val": 60,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,399.00",
+            "final_price_val": 1399.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 12384,
+            "tag_ids": [
+                4231,
+                1742,
+                4777,
+                4434,
+                1684,
+                19,
+                4604
+            ],
+            "tags": [
+                "Action RPG",
+                "Story Rich",
+                "Spectacle fighter",
+                "JRPG",
+                "Fantasy",
+                "Action",
+                "Dark Fantasy"
+            ]
+        },
+        {
+            "appid": "457140",
+            "title": "Oxygen Not Included",
+            "link": "https://store.steampowered.com/app/457140/Oxygen_Not_Included/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg?t=1781198471",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹569.00",
+            "original_price_val": 569.0,
+            "final_price": "₹170.00",
+            "final_price_val": 170.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 48885,
+            "tag_ids": [
+                220585,
+                7332,
+                1662,
+                8945,
+                1643,
+                4182,
+                12472
+            ],
+            "tags": [
+                "Colony Sim",
+                "Base Building",
+                "Survival",
+                "Resource Management",
+                "Building",
+                "Singleplayer",
+                "Management"
+            ]
+        },
+        {
+            "appid": "1328670",
+            "title": "Mass Effect™ Legendary Edition",
+            "link": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328670/capsule_231x87.jpg?t=1777395134",
+            "discount_pct": "-92%",
+            "discount_val": 92,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹239.00",
+            "final_price_val": 239.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 40493,
+            "tag_ids": [
+                1742,
+                122,
+                6426,
+                3942,
+                4182,
+                1755,
+                4747
+            ],
+            "tags": [
+                "Story Rich",
+                "RPG",
+                "Choices Matter",
+                "Sci-fi",
+                "Singleplayer",
+                "Space",
+                "Character Customization"
+            ]
+        },
+        {
+            "appid": "2458980",
+            "title": "Dimhaven - The Lost Source",
+            "link": "https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458980/124350e1d15bd969bbe385f608e568f4cd706089/capsule_231x87.jpg?t=1782229679",
+            "discount_pct": "-15%",
+            "discount_val": 15,
+            "original_price": "₹1,299.00",
+            "original_price_val": 1299.0,
+            "final_price": "₹1,104.00",
+            "final_price_val": 1104.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 85,
+            "rating_count": 56,
+            "tag_ids": [
+                21,
+                1664,
+                3839,
+                5716,
+                5900,
+                1742,
+                3834
+            ],
+            "tags": [
+                "Adventure",
+                "Puzzle",
+                "First-Person",
+                "Mystery",
+                "Walking Simulator",
+                "Story Rich",
+                "Exploration"
+            ]
+        },
+        {
+            "appid": "2668510",
+            "title": "Red Dead Redemption",
+            "link": "https://store.steampowered.com/app/2668510/Red_Dead_Redemption/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2668510/c9c0dd50da5b3543c74beb11b6c806fb9fd88a8c/capsule_231x87.jpg?t=1781132266",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹3,799.00",
+            "original_price_val": 3799.0,
+            "final_price": "₹1,899.00",
+            "final_price_val": 1899.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 10953,
+            "tag_ids": [
+                1695,
+                1647,
+                1742,
+                4182,
+                19,
+                1659,
+                4106
+            ],
+            "tags": [
+                "Open World",
+                "Western",
+                "Story Rich",
+                "Singleplayer",
+                "Action",
+                "Zombies",
+                "Action-Adventure"
+            ]
+        },
+        {
+            "appid": "1971870",
+            "title": "Mortal Kombat 1",
+            "link": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1778795130",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹2,799.00",
+            "original_price_val": 2799.0,
+            "final_price": "₹559.00",
+            "final_price_val": 559.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 72,
+            "rating_count": 16976,
+            "tag_ids": [
+                4345,
+                1743,
+                19,
+                3859,
+                4736,
+                4667,
+                6915
+            ],
+            "tags": [
+                "Gore",
+                "Fighting",
+                "Action",
+                "Multiplayer",
+                "2D Fighter",
+                "Violent",
+                "Martial Arts"
+            ]
+        },
+        {
+            "appid": "255710",
+            "title": "Cities: Skylines",
+            "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_2300_150_1",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255710/4cf458b43b41e4f86d3e4e604e7a7577c7926b01/capsule_231x87.jpg?t=1777568415",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹1,859.00",
+            "original_price_val": 1859.0,
+            "final_price": "₹557.00",
+            "final_price_val": 557.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 99874,
+            "tag_ids": [
+                4328,
+                599,
+                1643,
+                12472,
+                9,
+                3810,
+                4182
+            ],
+            "tags": [
+                "City Builder",
+                "Simulation",
+                "Building",
+                "Management",
+                "Strategy",
+                "Sandbox",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "221100",
+            "title": "DayZ",
+            "link": "https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/capsule_231x87.jpg?t=1769695513",
+            "discount_pct": "-55%",
+            "discount_val": 55,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,574.00",
+            "final_price_val": 1574.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 74,
+            "rating_count": 176562,
+            "tag_ids": [
+                1662,
+                1695,
+                1659,
+                3843,
+                3859,
+                3835,
+                1774
+            ],
+            "tags": [
+                "Survival",
+                "Open World",
+                "Zombies",
+                "Online Co-Op",
+                "Multiplayer",
+                "Post-apocalyptic",
+                "Shooter"
+            ]
+        },
+        {
+            "appid": "2909400",
+            "title": "FINAL FANTASY VII REBIRTH",
+            "link": "https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/159fb57397e436d35ae20ba0f62ba7a7f2974cb9/capsule_231x87.jpg?t=1775124617",
+            "discount_pct": "-60%",
+            "discount_val": 60,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,399.00",
+            "final_price_val": 1399.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 12132,
+            "tag_ids": [
+                122,
+                19,
+                21,
+                4434,
+                1695,
+                4182,
+                4231
+            ],
+            "tags": [
+                "RPG",
+                "Action",
+                "Adventure",
+                "JRPG",
+                "Open World",
+                "Singleplayer",
+                "Action RPG"
+            ]
+        },
+        {
+            "appid": "2958130",
+            "title": "Jurassic World Evolution 3",
+            "link": "https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1781616104",
+            "discount_pct": "-33%",
+            "discount_val": 33,
+            "original_price": "₹2,974.00",
+            "original_price_val": 2974.0,
+            "final_price": "₹1,992.00",
+            "final_price_val": 1992.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 93,
+            "rating_count": 6367,
+            "tag_ids": [
+                599,
+                5160,
+                9,
+                3810,
+                4328,
+                5230,
+                19
+            ],
+            "tags": [
+                "Simulation",
+                "Dinosaurs",
+                "Strategy",
+                "Sandbox",
+                "City Builder",
+                "Sequel",
+                "Action"
+            ]
+        },
+        {
+            "appid": "1151640",
+            "title": "Horizon Zero Dawn™ Complete Edition",
+            "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg?t=1776465788",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹1,799.00",
+            "final_price_val": 1799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 89,
+            "rating_count": 51636,
+            "tag_ids": [
+                1695,
+                21,
+                7208,
+                4182,
+                1742,
+                122,
+                19
+            ],
+            "tags": [
+                "Open World",
+                "Adventure",
+                "Female Protagonist",
+                "Singleplayer",
+                "Story Rich",
+                "RPG",
+                "Action"
+            ]
+        },
+        {
+            "appid": "2114740",
+            "title": "Blasphemous 2",
+            "link": "https://store.steampowered.com/app/2114740/Blasphemous_2/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2114740/856662cd98b3fbd4abd1ebd6d5a480c7f09612e4/capsule_231x87_alt_assets_2.jpg?t=1781194759",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹2,399.00",
+            "original_price_val": 2399.0,
+            "final_price": "₹599.00",
+            "final_price_val": 599.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 5395,
+            "tag_ids": [
+                4026,
+                3993,
+                1684,
+                1628,
+                29482,
+                21,
+                3964
+            ],
+            "tags": [
+                "Difficult",
+                "Combat",
+                "Fantasy",
+                "Metroidvania",
+                "Souls-like",
+                "Adventure",
+                "Pixel Graphics"
+            ]
+        },
+        {
+            "appid": "208650",
+            "title": "Batman™: Arkham Knight",
+            "link": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg?t=1745534372",
+            "discount_pct": "-85%",
+            "discount_val": 85,
+            "original_price": "₹1,349.00",
+            "original_price_val": 1349.0,
+            "final_price": "₹202.00",
+            "final_price_val": 202.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 49998,
+            "tag_ids": [
+                19,
+                1695,
+                1671,
+                1687,
+                4182,
+                1697,
+                21
+            ],
+            "tags": [
+                "Action",
+                "Open World",
+                "Superhero",
+                "Stealth",
+                "Singleplayer",
+                "Third Person",
+                "Adventure"
+            ]
+        },
+        {
+            "appid": "1874880",
+            "title": "Arma Reforger",
+            "link": "https://store.steampowered.com/app/1874880/Arma_Reforger/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874880/capsule_231x87.jpg?t=1779966148",
+            "discount_pct": "-30%",
+            "discount_val": 30,
+            "original_price": "₹2,599.00",
+            "original_price_val": 2599.0,
+            "final_price": "₹1,819.00",
+            "final_price_val": 1819.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 29455,
+            "tag_ids": [
+                4168,
+                599,
+                1774,
+                4175,
+                1663,
+                19,
+                9
+            ],
+            "tags": [
+                "Military",
+                "Simulation",
+                "Shooter",
+                "Realistic",
+                "FPS",
+                "Action",
+                "Strategy"
+            ]
+        },
+        {
+            "appid": "1716740",
+            "title": "Starfield",
+            "link": "https://store.steampowered.com/app/1716740/Starfield/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg?t=1778168061",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹2,799.00",
+            "final_price_val": 2799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 57,
+            "rating_count": 85181,
+            "tag_ids": [
+                1755,
+                1695,
+                4182,
+                122,
+                3942,
+                3834,
+                4747
+            ],
+            "tags": [
+                "Space",
+                "Open World",
+                "Singleplayer",
+                "RPG",
+                "Sci-fi",
+                "Exploration",
+                "Character Customization"
+            ]
+        },
+        {
+            "appid": "2185060",
+            "title": "Two Point Museum",
+            "link": "https://store.steampowered.com/app/2185060/Two_Point_Museum/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2185060/39af5f1d2a30ca59c8b5302616183ff902322ddd/capsule_231x87.jpg?t=1782285831",
+            "discount_pct": "-33%",
+            "discount_val": 33,
+            "original_price": "₹1,999.00",
+            "original_price_val": 1999.0,
+            "final_price": "₹1,339.00",
+            "final_price_val": 1339.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 4749,
+            "tag_ids": [
+                599,
+                597,
+                1643,
+                9,
+                4328,
+                3810,
+                10235
+            ],
+            "tags": [
+                "Simulation",
+                "Casual",
+                "Building",
+                "Strategy",
+                "City Builder",
+                "Sandbox",
+                "Life Sim"
+            ]
+        },
+        {
+            "appid": "2486820",
+            "title": "Sonic Racing: CrossWorlds",
+            "link": "https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486820/4c049713e68cccbdf6bd58bf8c769ff108961cfc/capsule_231x87_alt_assets_9.jpg?t=1782197009",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹5,699.00",
+            "original_price_val": 5699.0,
+            "final_price": "₹2,849.00",
+            "final_price_val": 2849.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 94,
+            "rating_count": 7980,
+            "tag_ids": [
+                699,
+                3859,
+                5350,
+                4102,
+                4182,
+                7368,
+                4106
+            ],
+            "tags": [
+                "Racing",
+                "Multiplayer",
+                "Family Friendly",
+                "Combat Racing",
+                "Singleplayer",
+                "Local Multiplayer",
+                "Action-Adventure"
+            ]
+        },
+        {
+            "appid": "2352620",
+            "title": "Fellowship",
+            "link": "https://store.steampowered.com/app/2352620/Fellowship/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2352620/c2ee9eedd999a03ae8d3f8e36b0ba53a2d26e00c/capsule_231x87_alt_assets_2.jpg?t=1782140326",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹1,100.00",
+            "original_price_val": 1100.0,
+            "final_price": "₹660.00",
+            "final_price_val": 660.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 9573,
+            "tag_ids": [
+                1720,
+                3843,
+                6730,
+                122,
+                10695,
+                4236,
+                1754
+            ],
+            "tags": [
+                "Dungeon Crawler",
+                "Online Co-Op",
+                "PvE",
+                "RPG",
+                "Party-Based RPG",
+                "Loot",
+                "MMORPG"
+            ]
+        },
+        {
+            "appid": "728880",
+            "title": "Overcooked! 2",
+            "link": "https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/capsule_231x87.jpg?t=1780480581",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹569.00",
+            "original_price_val": 569.0,
+            "final_price": "₹142.00",
+            "final_price_val": 142.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 93,
+            "rating_count": 14332,
+            "tag_ids": [
+                3859,
+                3841,
+                3843,
+                1685,
+                3920,
+                597,
+                4136
+            ],
+            "tags": [
+                "Multiplayer",
+                "Local Co-Op",
+                "Online Co-Op",
+                "Co-op",
+                "Cooking",
+                "Casual",
+                "Funny"
+            ]
+        },
+        {
+            "appid": "1812450",
+            "title": "Bellwright",
+            "link": "https://store.steampowered.com/app/1812450/Bellwright/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812450/c479dda6fcd1e9edf38fe18a02ca21aab153664e/capsule_231x87.jpg?t=1782172061",
+            "discount_pct": "-34%",
+            "discount_val": 34,
+            "original_price": "₹1,300.00",
+            "original_price_val": 1300.0,
+            "final_price": "₹858.00",
+            "final_price_val": 858.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 9762,
+            "tag_ids": [
+                1662,
+                1695,
+                4328,
+                4172,
+                1702,
+                3843,
+                3859
+            ],
+            "tags": [
+                "Survival",
+                "Open World",
+                "City Builder",
+                "Medieval",
+                "Crafting",
+                "Online Co-Op",
+                "Multiplayer"
+            ]
+        },
+        {
+            "appid": "3105440",
+            "title": "Heroes of Might and Magic: Olden Era",
+            "link": "https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1779786083",
+            "discount_pct": "-25%",
+            "discount_val": 25,
+            "original_price": "₹1,499.00",
+            "original_price_val": 1499.0,
+            "final_price": "₹1,124.00",
+            "final_price_val": 1124.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 87,
+            "rating_count": 5495,
+            "tag_ids": [
+                9,
+                1741,
+                122,
+                3859,
+                1684,
+                599,
+                1708
+            ],
+            "tags": [
+                "Strategy",
+                "Turn-Based Strategy",
+                "RPG",
+                "Multiplayer",
+                "Fantasy",
+                "Simulation",
+                "Tactical"
+            ]
+        },
+        {
+            "appid": "2561580",
+            "title": "Horizon Zero Dawn™ Remastered",
+            "link": "https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2561580/507f27b6be81658f406a42e269a2e4b065941ade/capsule_231x87.jpg?t=1750952943",
+            "discount_pct": "-40%",
+            "discount_val": 40,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹1,799.00",
+            "final_price_val": 1799.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 85,
+            "rating_count": 3194,
+            "tag_ids": [
+                4106,
+                1695,
+                7208,
+                1697,
+                3835,
+                4821,
+                1742
+            ],
+            "tags": [
+                "Action-Adventure",
+                "Open World",
+                "Female Protagonist",
+                "Third Person",
+                "Post-apocalyptic",
+                "Mechs",
+                "Story Rich"
+            ]
+        },
+        {
+            "appid": "3156770",
+            "title": "Witchfire",
+            "link": "https://store.steampowered.com/app/3156770/Witchfire/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156770/8534175074606b4c36191d3446d10d5e377dc6c3/capsule_231x87.jpg?t=1782205254",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹1,600.00",
+            "original_price_val": 1600.0,
+            "final_price": "₹1,280.00",
+            "final_price_val": 1280.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 10559,
+            "tag_ids": [
+                1663,
+                1199779,
+                4604,
+                29482,
+                3959,
+                1774,
+                122
+            ],
+            "tags": [
+                "FPS",
+                "Extraction Shooter",
+                "Dark Fantasy",
+                "Souls-like",
+                "Roguelite",
+                "Shooter",
+                "RPG"
+            ]
+        },
+        {
+            "appid": "3404260",
+            "title": "Dead as Disco",
+            "link": "https://store.steampowered.com/app/3404260/Dead_as_Disco/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg?t=1782153525",
+            "discount_pct": "-20%",
+            "discount_val": 20,
+            "original_price": "₹1,149.00",
+            "original_price_val": 1149.0,
+            "final_price": "₹919.00",
+            "final_price_val": 919.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 97,
+            "rating_count": 6052,
+            "tag_ids": [
+                493,
+                1752,
+                4158,
+                4777,
+                1646,
+                6915,
+                1621
+            ],
+            "tags": [
+                "Early Access",
+                "Rhythm",
+                "Beat 'em up",
+                "Spectacle fighter",
+                "Hack and Slash",
+                "Martial Arts",
+                "Music"
+            ]
+        },
+        {
+            "appid": "1313140",
+            "title": "Cult of the Lamb",
+            "link": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/1ac7c83bd1ce239a12d8e67b8ebc45765bb60319/capsule_231x87.jpg?t=1769836674",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹899.00",
+            "original_price_val": 899.0,
+            "final_price": "₹449.00",
+            "final_price_val": 449.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 59109,
+            "tag_ids": [
+                7332,
+                42804,
+                4726,
+                52406,
+                4182,
+                1720,
+                3959
+            ],
+            "tags": [
+                "Base Building",
+                "Action Roguelike",
+                "Cute",
+                "Cult",
+                "Singleplayer",
+                "Dungeon Crawler",
+                "Roguelite"
+            ]
+        },
+        {
+            "appid": "2515020",
+            "title": "FINAL FANTASY XVI",
+            "link": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/capsule_231x87.jpg?t=1773294537",
+            "discount_pct": "-60%",
+            "discount_val": 60,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹1,399.00",
+            "final_price_val": 1399.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 79,
+            "rating_count": 12384,
+            "tag_ids": [
+                4231,
+                1742,
+                4777,
+                4434,
+                1684,
+                19,
+                4604
+            ],
+            "tags": [
+                "Action RPG",
+                "Story Rich",
+                "Spectacle fighter",
+                "JRPG",
+                "Fantasy",
+                "Action",
+                "Dark Fantasy"
+            ]
+        },
+        {
+            "appid": "457140",
+            "title": "Oxygen Not Included",
+            "link": "https://store.steampowered.com/app/457140/Oxygen_Not_Included/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg?t=1781198471",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹569.00",
+            "original_price_val": 569.0,
+            "final_price": "₹170.00",
+            "final_price_val": 170.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 48885,
+            "tag_ids": [
+                220585,
+                7332,
+                1662,
+                8945,
+                1643,
+                4182,
+                12472
+            ],
+            "tags": [
+                "Colony Sim",
+                "Base Building",
+                "Survival",
+                "Resource Management",
+                "Building",
+                "Singleplayer",
+                "Management"
+            ]
+        },
+        {
+            "appid": "1328670",
+            "title": "Mass Effect™ Legendary Edition",
+            "link": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328670/capsule_231x87.jpg?t=1777395134",
+            "discount_pct": "-92%",
+            "discount_val": 92,
+            "original_price": "₹2,999.00",
+            "original_price_val": 2999.0,
+            "final_price": "₹239.00",
+            "final_price_val": 239.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 40493,
+            "tag_ids": [
+                1742,
+                122,
+                6426,
+                3942,
+                4182,
+                1755,
+                4747
+            ],
+            "tags": [
+                "Story Rich",
+                "RPG",
+                "Choices Matter",
+                "Sci-fi",
+                "Singleplayer",
+                "Space",
+                "Character Customization"
+            ]
+        },
+        {
+            "appid": "2458980",
+            "title": "Dimhaven - The Lost Source",
+            "link": "https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458980/124350e1d15bd969bbe385f608e568f4cd706089/capsule_231x87.jpg?t=1782229679",
+            "discount_pct": "-15%",
+            "discount_val": 15,
+            "original_price": "₹1,299.00",
+            "original_price_val": 1299.0,
+            "final_price": "₹1,104.00",
+            "final_price_val": 1104.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 84,
+            "rating_count": 59,
+            "tag_ids": [
+                21,
+                1664,
+                3839,
+                5716,
+                5900,
+                1742,
+                3834
+            ],
+            "tags": [
+                "Adventure",
+                "Puzzle",
+                "First-Person",
+                "Mystery",
+                "Walking Simulator",
+                "Story Rich",
+                "Exploration"
+            ]
+        },
+        {
+            "appid": "2668510",
+            "title": "Red Dead Redemption",
+            "link": "https://store.steampowered.com/app/2668510/Red_Dead_Redemption/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2668510/c9c0dd50da5b3543c74beb11b6c806fb9fd88a8c/capsule_231x87.jpg?t=1781132266",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹3,799.00",
+            "original_price_val": 3799.0,
+            "final_price": "₹1,899.00",
+            "final_price_val": 1899.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 10953,
+            "tag_ids": [
+                1695,
+                1647,
+                1742,
+                4182,
+                19,
+                1659,
+                4106
+            ],
+            "tags": [
+                "Open World",
+                "Western",
+                "Story Rich",
+                "Singleplayer",
+                "Action",
+                "Zombies",
+                "Action-Adventure"
+            ]
+        },
+        {
+            "appid": "1971870",
+            "title": "Mortal Kombat 1",
+            "link": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1778795130",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹2,799.00",
+            "original_price_val": 2799.0,
+            "final_price": "₹559.00",
+            "final_price_val": 559.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 72,
+            "rating_count": 16976,
+            "tag_ids": [
+                4345,
+                1743,
+                19,
+                3859,
+                4736,
+                4667,
+                6915
+            ],
+            "tags": [
+                "Gore",
+                "Fighting",
+                "Action",
+                "Multiplayer",
+                "2D Fighter",
+                "Violent",
+                "Martial Arts"
+            ]
+        },
+        {
+            "appid": "255710",
+            "title": "Cities: Skylines",
+            "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_2300_150_2",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255710/4cf458b43b41e4f86d3e4e604e7a7577c7926b01/capsule_231x87.jpg?t=1777568415",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹1,859.00",
+            "original_price_val": 1859.0,
+            "final_price": "₹557.00",
+            "final_price_val": 557.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 92,
+            "rating_count": 99874,
+            "tag_ids": [
+                4328,
+                599,
+                1643,
+                12472,
+                9,
+                3810,
+                4182
+            ],
+            "tags": [
+                "City Builder",
+                "Simulation",
+                "Building",
+                "Management",
+                "Strategy",
+                "Sandbox",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "289070",
+            "title": "Sid Meier’s Civilization® VI",
+            "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1740607040",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹2,499.00",
+            "original_price_val": 2499.0,
+            "final_price": "₹249.00",
+            "final_price_val": 249.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 85,
+            "rating_count": 106561,
+            "tag_ids": [
+                9,
+                1741,
+                3859,
+                3987,
+                4364,
+                4182,
+                1677
+            ],
+            "tags": [
+                "Strategy",
+                "Turn-Based Strategy",
+                "Multiplayer",
+                "Historical",
+                "Grand Strategy",
+                "Singleplayer",
+                "Turn-Based"
+            ]
+        },
+        {
+            "appid": "1238810",
+            "title": "Battlefield™ V",
+            "link": "https://store.steampowered.com/app/1238810/Battlefield_V/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_231x87.jpg?t=1772707365",
+            "discount_pct": "-95%",
+            "discount_val": 95,
+            "original_price": "₹2,599.00",
+            "original_price_val": 2599.0,
+            "final_price": "₹129.00",
+            "final_price_val": 129.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 71,
+            "rating_count": 34970,
+            "tag_ids": [
+                1663,
+                3859,
+                4150,
+                4182,
+                1774,
+                1678,
+                4168
+            ],
+            "tags": [
+                "FPS",
+                "Multiplayer",
+                "World War II",
+                "Singleplayer",
+                "Shooter",
+                "War",
+                "Military"
+            ]
+        },
+        {
+            "appid": "1774580",
+            "title": "STAR WARS Jedi: Survivor™",
+            "link": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1774580/capsule_231x87.jpg?t=1777391797",
+            "discount_pct": "-80%",
+            "discount_val": 80,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹699.00",
+            "final_price_val": 699.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mixed",
+            "rating_pct": 69,
+            "rating_count": 49481,
+            "tag_ids": [
+                19,
+                4182,
+                1695,
+                21,
+                29482,
+                1697,
+                3942
+            ],
+            "tags": [
+                "Action",
+                "Singleplayer",
+                "Open World",
+                "Adventure",
+                "Souls-like",
+                "Third Person",
+                "Sci-fi"
+            ]
+        },
+        {
+            "appid": "1669000",
+            "title": "Age of Wonders 4",
+            "link": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/bedd1c2fee916964c3114e3f243e248c34737c27/capsule_231x87_alt_assets_12.jpg?t=1781687362",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹3,139.00",
+            "original_price_val": 3139.0,
+            "final_price": "₹1,569.00",
+            "final_price_val": 1569.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 82,
+            "rating_count": 10759,
+            "tag_ids": [
+                9,
+                1670,
+                1741,
+                1684,
+                4747,
+                122,
+                4364
+            ],
+            "tags": [
+                "Strategy",
+                "4X",
+                "Turn-Based Strategy",
+                "Fantasy",
+                "Character Customization",
+                "RPG",
+                "Grand Strategy"
+            ]
+        },
+        {
+            "appid": "1238840",
+            "title": "Battlefield™ 1",
+            "link": "https://store.steampowered.com/app/1238840/Battlefield_1/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238840/capsule_231x87.jpg?t=1777324289",
+            "discount_pct": "-95%",
+            "discount_val": 95,
+            "original_price": "₹2,499.00",
+            "original_price_val": 2499.0,
+            "final_price": "₹124.00",
+            "final_price_val": 124.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 86,
+            "rating_count": 45093,
+            "tag_ids": [
+                1663,
+                3859,
+                5382,
+                4182,
+                1678,
+                1774,
+                19
+            ],
+            "tags": [
+                "FPS",
+                "Multiplayer",
+                "World War I",
+                "Singleplayer",
+                "War",
+                "Shooter",
+                "Action"
+            ]
+        },
+        {
+            "appid": "477160",
+            "title": "Human Fall Flat",
+            "link": "https://store.steampowered.com/app/477160/Human_Fall_Flat/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/8ce85b16e46cbfa47c946d4355f782f559efa3dd/capsule_231x87.jpg?t=1781193705",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹529.00",
+            "original_price_val": 529.0,
+            "final_price": "₹158.00",
+            "final_price_val": 158.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 95,
+            "rating_count": 30598,
+            "tag_ids": [
+                1685,
+                4136,
+                1664,
+                3859,
+                21,
+                3968,
+                3810
+            ],
+            "tags": [
+                "Co-op",
+                "Funny",
+                "Puzzle",
+                "Multiplayer",
+                "Adventure",
+                "Physics",
+                "Sandbox"
+            ]
+        },
+        {
+            "appid": "1282100",
+            "title": "REMNANT II®",
+            "link": "https://store.steampowered.com/app/1282100/REMNANT_II/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282100/capsule_231x87.jpg?t=1764659459",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹2,900.00",
+            "original_price_val": 2900.0,
+            "final_price": "₹725.00",
+            "final_price_val": 725.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 85,
+            "rating_count": 26713,
+            "tag_ids": [
+                29482,
+                1685,
+                19,
+                3814,
+                21,
+                122,
+                1774
+            ],
+            "tags": [
+                "Souls-like",
+                "Co-op",
+                "Action",
+                "Third-Person Shooter",
+                "Adventure",
+                "RPG",
+                "Shooter"
+            ]
+        },
+        {
+            "appid": "2399420",
+            "title": "Le Mans Ultimate",
+            "link": "https://store.steampowered.com/app/2399420/Le_Mans_Ultimate/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399420/2da0772b63dcb1b58d3dea234fb578de1880f9c3/capsule_231x87.jpg?t=1780055402",
+            "discount_pct": "-33%",
+            "discount_val": 33,
+            "original_price": "₹3,200.00",
+            "original_price_val": 3200.0,
+            "final_price": "₹2,144.00",
+            "final_price_val": 2144.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 6216,
+            "tag_ids": [
+                699,
+                1100687,
+                1644,
+                4175,
+                21978,
+                3859,
+                599
+            ],
+            "tags": [
+                "Racing",
+                "Automobile Sim",
+                "Driving",
+                "Realistic",
+                "VR",
+                "Multiplayer",
+                "Simulation"
+            ]
+        },
+        {
+            "appid": "244210",
+            "title": "Assetto Corsa",
+            "link": "https://store.steampowered.com/app/244210/Assetto_Corsa/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/d63fc060c13548861637663b085339a4d9a37781/capsule_231x87.jpg?t=1782208838",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹880.00",
+            "original_price_val": 880.0,
+            "final_price": "₹220.00",
+            "final_price_val": 220.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 93,
+            "rating_count": 59264,
+            "tag_ids": [
+                699,
+                1100687,
+                599,
+                3859,
+                1644,
+                21978,
+                4175
+            ],
+            "tags": [
+                "Racing",
+                "Automobile Sim",
+                "Simulation",
+                "Multiplayer",
+                "Driving",
+                "VR",
+                "Realistic"
+            ]
+        },
+        {
+            "appid": "220200",
+            "title": "Kerbal Space Program",
+            "link": "https://store.steampowered.com/app/220200/Kerbal_Space_Program/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹1,599.00",
+            "original_price_val": 1599.0,
+            "final_price": "₹400.00",
+            "final_price_val": 400.0,
+            "platforms": [
+                "linux",
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 96,
+            "rating_count": 81595,
+            "tag_ids": [
+                1755,
+                599,
+                3810,
+                3968,
+                5794,
+                16598,
+                1643
+            ],
+            "tags": [
+                "Space",
+                "Simulation",
+                "Sandbox",
+                "Physics",
+                "Science",
+                "Space Sim",
+                "Building"
+            ]
+        },
+        {
+            "appid": "2513280",
+            "title": "SONIC X SHADOW GENERATIONS",
+            "link": "https://store.steampowered.com/app/2513280/SONIC_X_SHADOW_GENERATIONS/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/capsule_231x87.jpg?t=1781720100",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹3,999.00",
+            "original_price_val": 3999.0,
+            "final_price": "₹1,199.00",
+            "final_price_val": 1199.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 97,
+            "rating_count": 8732,
+            "tag_ids": [
+                19,
+                5395,
+                1734,
+                1756,
+                1625,
+                4182,
+                4191
+            ],
+            "tags": [
+                "Action",
+                "3D Platformer",
+                "Fast-Paced",
+                "Great Soundtrack",
+                "Platformer",
+                "Singleplayer",
+                "3D"
+            ]
+        },
+        {
+            "appid": "1601580",
+            "title": "Frostpunk 2",
+            "link": "https://store.steampowered.com/app/1601580/Frostpunk_2/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1601580/2c5b053c630a9cb57fa71e6eb018c2a0b008c05b/capsule_231x87.jpg?t=1782220270",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹1,800.00",
+            "original_price_val": 1800.0,
+            "final_price": "₹900.00",
+            "final_price_val": 900.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 78,
+            "rating_count": 9393,
+            "tag_ids": [
+                4328,
+                9,
+                1662,
+                8945,
+                3835,
+                599,
+                4182
+            ],
+            "tags": [
+                "City Builder",
+                "Strategy",
+                "Survival",
+                "Resource Management",
+                "Post-apocalyptic",
+                "Simulation",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "107410",
+            "title": "Arma 3",
+            "link": "https://store.steampowered.com/app/107410/Arma_3/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107410/capsule_231x87.jpg?t=1781616621",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹2,099.00",
+            "original_price_val": 2099.0,
+            "final_price": "₹629.00",
+            "final_price_val": 629.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 110687,
+            "tag_ids": [
+                4168,
+                19,
+                3859,
+                1774,
+                599,
+                4175,
+                3839
+            ],
+            "tags": [
+                "Military",
+                "Action",
+                "Multiplayer",
+                "Shooter",
+                "Simulation",
+                "Realistic",
+                "First-Person"
+            ]
+        },
+        {
+            "appid": "3551340",
+            "title": "Football Manager 26",
+            "link": "https://store.steampowered.com/app/3551340/Football_Manager_26/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3551340/89a157ed8100b4c8fa49de9fda0b3a83aece1f5e/capsule_231x87.jpg?t=1781176251",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹4,499.00",
+            "original_price_val": 4499.0,
+            "final_price": "₹2,249.00",
+            "final_price_val": 2249.0,
+            "platforms": [
+                "mac",
+                "win"
+            ],
+            "rating_desc": "Mostly Negative",
+            "rating_pct": 36,
+            "rating_count": 8709,
+            "tag_ids": [
+                701,
+                599,
+                9,
+                1254546,
+                12472,
+                3859,
+                4182
+            ],
+            "tags": [
+                "Sports",
+                "Simulation",
+                "Strategy",
+                "Football (Soccer)",
+                "Management",
+                "Multiplayer",
+                "Singleplayer"
+            ]
+        },
+        {
+            "appid": "3688130",
+            "title": "Moldwasher",
+            "link": "https://store.steampowered.com/app/3688130/Moldwasher/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3688130/47e3ef885f3e335661caecf27f80a52c0a66ef3c/capsule_231x87_alt_assets_3.jpg?t=1782242580",
+            "discount_pct": "-10%",
+            "discount_val": 10,
+            "original_price": "₹469.00",
+            "original_price_val": 469.0,
+            "final_price": "₹422.00",
+            "final_price_val": 422.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 90,
+            "rating_count": 166,
+            "tag_ids": [
+                23491,
+                97376,
+                1654,
+                597,
+                1773,
+                3871,
+                599
+            ],
+            "tags": [
+                "Cleaning",
+                "Cozy",
+                "Relaxing",
+                "Casual",
+                "Arcade",
+                "2D",
+                "Simulation"
+            ]
+        },
+        {
+            "appid": "548430",
+            "title": "Deep Rock Galactic",
+            "link": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548430/1a881a724266fff7af201e18b1af3d2f4d6f4290/capsule_231x87.jpg?t=1782116973",
+            "discount_pct": "-70%",
+            "discount_val": 70,
+            "original_price": "₹939.00",
+            "original_price_val": 939.0,
+            "final_price": "₹281.00",
+            "final_price_val": 281.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Overwhelmingly Positive",
+            "rating_pct": 97,
+            "rating_count": 170112,
+            "tag_ids": [
+                4535,
+                1685,
+                6730,
+                1663,
+                5125,
+                4155,
+                1774
+            ],
+            "tags": [
+                "Dwarves",
+                "Co-op",
+                "PvE",
+                "FPS",
+                "Procedural Generation",
+                "Class-Based",
+                "Shooter"
+            ]
+        },
+        {
+            "appid": "2129530",
+            "title": "REANIMAL",
+            "link": "https://store.steampowered.com/app/2129530/REANIMAL/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/0e28f1b3446dd979013ca3df83a3ced5d7ca611b/capsule_231x87.jpg?t=1771918402",
+            "discount_pct": "-25%",
+            "discount_val": 25,
+            "original_price": "₹1,600.00",
+            "original_price_val": 1600.0,
+            "final_price": "₹1,200.00",
+            "final_price_val": 1200.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 82,
+            "rating_count": 5183,
+            "tag_ids": [
+                1667,
+                1685,
+                21,
+                4166,
+                3859,
+                4342,
+                3841
+            ],
+            "tags": [
+                "Horror",
+                "Co-op",
+                "Adventure",
+                "Atmospheric",
+                "Multiplayer",
+                "Dark",
+                "Local Co-Op"
+            ]
+        },
+        {
+            "appid": "1004640",
+            "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+            "link": "https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/12bdfff11d35dbd64055124bcdbf690f49d6ce46/capsule_231x87.jpg?t=1781662166",
+            "discount_pct": "-30%",
+            "discount_val": 30,
+            "original_price": "₹3,499.00",
+            "original_price_val": 3499.0,
+            "final_price": "₹2,449.00",
+            "final_price_val": 2449.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 91,
+            "rating_count": 4049,
+            "tag_ids": [
+                1741,
+                14139,
+                21725,
+                1684,
+                4172,
+                1742,
+                4434
+            ],
+            "tags": [
+                "Turn-Based Strategy",
+                "Turn-Based Tactics",
+                "Tactical RPG",
+                "Fantasy",
+                "Medieval",
+                "Story Rich",
+                "JRPG"
+            ]
+        },
+        {
+            "appid": "2492040",
+            "title": "FATAL FURY: City of the Wolves",
+            "link": "https://store.steampowered.com/app/2492040/FATAL_FURY_City_of_the_Wolves/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2492040/526c8440814b4307e7d0c2f687b2b3c38ba1f734/capsule_231x87.jpg?t=1780554468",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹1,664.00",
+            "original_price_val": 1664.0,
+            "final_price": "₹832.00",
+            "final_price_val": 832.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 81,
+            "rating_count": 1488,
+            "tag_ids": [
+                4736,
+                19,
+                3871,
+                1775,
+                4777,
+                3859,
+                1743
+            ],
+            "tags": [
+                "2D Fighter",
+                "Action",
+                "2D",
+                "PvP",
+                "Spectacle fighter",
+                "Multiplayer",
+                "Fighting"
+            ]
+        },
+        {
+            "appid": "976310",
+            "title": "Mortal Kombat 11",
+            "link": "https://store.steampowered.com/app/976310/Mortal_Kombat_11/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/capsule_231x87.jpg?t=1780429525",
+            "discount_pct": "-90%",
+            "discount_val": 90,
+            "original_price": "₹2,699.00",
+            "original_price_val": 2699.0,
+            "final_price": "₹269.00",
+            "final_price_val": 269.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 86,
+            "rating_count": 25679,
+            "tag_ids": [
+                1743,
+                4345,
+                4667,
+                3859,
+                19,
+                4736,
+                7368
+            ],
+            "tags": [
+                "Fighting",
+                "Gore",
+                "Violent",
+                "Multiplayer",
+                "Action",
+                "2D Fighter",
+                "Local Multiplayer"
+            ]
+        },
+        {
+            "appid": "1237950",
+            "title": "STAR WARS™ Battlefront™ II",
+            "link": "https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/capsule_231x87.jpg?t=1777393714",
+            "discount_pct": "-75%",
+            "discount_val": 75,
+            "original_price": "₹2,499.00",
+            "original_price_val": 2499.0,
+            "final_price": "₹624.00",
+            "final_price_val": 624.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 87,
+            "rating_count": 51476,
+            "tag_ids": [
+                3859,
+                1774,
+                3814,
+                1755,
+                4182,
+                3942,
+                19
+            ],
+            "tags": [
+                "Multiplayer",
+                "Shooter",
+                "Third-Person Shooter",
+                "Space",
+                "Singleplayer",
+                "Sci-fi",
+                "Action"
+            ]
+        },
+        {
+            "appid": "1608070",
+            "title": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+            "link": "https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608070/capsule_231x87.jpg?t=1777343206",
+            "discount_pct": "-65%",
+            "discount_val": 65,
+            "original_price": "₹2,799.00",
+            "original_price_val": 2799.0,
+            "final_price": "₹979.00",
+            "final_price_val": 979.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 89,
+            "rating_count": 3538,
+            "tag_ids": [
+                19,
+                122,
+                4434,
+                21,
+                4231,
+                4106,
+                10695
+            ],
+            "tags": [
+                "Action",
+                "RPG",
+                "JRPG",
+                "Adventure",
+                "Action RPG",
+                "Action-Adventure",
+                "Party-Based RPG"
+            ]
+        },
+        {
+            "appid": "1129580",
+            "title": "Medieval Dynasty",
+            "link": "https://store.steampowered.com/app/1129580/Medieval_Dynasty/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1129580/5ab74c52e43a507282a899c731d115b31fc7e0ad/capsule_231x87_alt_assets_37.jpg?t=1781251858",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹1,490.00",
+            "original_price_val": 1490.0,
+            "final_price": "₹745.00",
+            "final_price_val": 745.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 89,
+            "rating_count": 18970,
+            "tag_ids": [
+                1643,
+                1702,
+                3859,
+                4172,
+                1685,
+                1662,
+                1695
+            ],
+            "tags": [
+                "Building",
+                "Crafting",
+                "Multiplayer",
+                "Medieval",
+                "Co-op",
+                "Survival",
+                "Open World"
+            ]
+        },
+        {
+            "appid": "2138720",
+            "title": "REMATCH",
+            "link": "https://store.steampowered.com/app/2138720/REMATCH/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138720/c306a53ee17323c467bb85e28f6e6343e80f3a69/capsule_231x87_alt_assets_0.jpg?t=1781682466",
+            "discount_pct": "-50%",
+            "discount_val": 50,
+            "original_price": "₹1,300.00",
+            "original_price_val": 1300.0,
+            "final_price": "₹650.00",
+            "final_price_val": 650.0,
+            "platforms": [
+                "win"
+            ],
+            "rating_desc": "Mostly Positive",
+            "rating_pct": 70,
+            "rating_count": 16086,
+            "tag_ids": [
+                701,
+                1254546,
+                3859,
+                1775,
+                5055,
+                3843,
+                1773
+            ],
+            "tags": [
+                "Sports",
+                "Football (Soccer)",
+                "Multiplayer",
+                "PvP",
+                "eSports",
+                "Online Co-Op",
+                "Arcade"
+            ]
+        },
+        {
+            "appid": "3639470",
+            "title": "Besiege: The Broken Beyond",
+            "link": "https://store.steampowered.com/app/3639470/Besiege_The_Broken_Beyond/?snr=1_7_7_2300_150_3",
+            "capsule_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3639470/6649e0482bacbac960517327bb57fd5a4658a4ac/capsule_231x87.jpg?t=1782307907",
+            "discount_pct": "-15%",
+            "discount_val": 15,
+            "original_price": "₹249.00",
+            "original_price_val": 249.0,
+            "final_price": "₹211.00",
+            "final_price_val": 211.0,
+            "platforms": [
+                "linux",
+                "win"
+            ],
+            "rating_desc": "Very Positive",
+            "rating_pct": 88,
+            "rating_count": 102,
+            "tag_ids": [
+                599,
+                3810,
+                3968,
+                5363,
+                4172,
+                1643,
+                1669
+            ],
+            "tags": [
+                "Simulation",
+                "Sandbox",
+                "Physics",
+                "Destruction",
+                "Medieval",
+                "Building",
+                "Moddable"
+            ]
+        }
+    ]
+}

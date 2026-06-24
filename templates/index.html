@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DealForge: A Game Price Scraper and Deal Discovery Dashboard</title>
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="profile-section">
+                <div class="avatar-container">
+                    <div class="avatar">
+                        <i class="fa-solid fa-user-astronaut"></i>
+                    </div>
+                    <div class="profile-info">
+                        <span class="profile-name">LolouTheFox</span>
+                        <span class="profile-status"><span class="status-dot"></span>Online</span>
+                    </div>
+                </div>
+                <!-- Refresh Button with Live Spinner status -->
+                <button class="action-btn" id="refresh-deals-btn" title="Refresh Deals from Steam">
+                    <i class="fa-solid fa-rotate-right" id="refresh-icon"></i>
+                </button>
+            </div>
+
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active">
+                    <i class="fa-solid fa-store"></i>
+                    <span>Store</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="fa-solid fa-cubes"></i>
+                    <span>Library</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="fa-solid fa-users"></i>
+                    <span>Community</span>
+                </a>
+            </nav>
+
+            <div class="quickplay-section">
+                <span class="section-title">QUICKPLAY</span>
+                <ul class="quickplay-list">
+                    <li class="quickplay-item" onclick="setQuickplayGenre('RPG')">
+                        <div class="qp-icon icon-rpg"><i class="fa-solid fa-gamepad"></i></div>
+                        <span>Hogwarts Legacy</span>
+                    </li>
+                    <li class="quickplay-item" onclick="setQuickplayGenre('Action')">
+                        <div class="qp-icon icon-action"><i class="fa-solid fa-crosshairs"></i></div>
+                        <span>Saint Rows</span>
+                    </li>
+                    <li class="quickplay-item" onclick="setQuickplayGenre('Adventure')">
+                        <div class="qp-icon icon-adventure"><i class="fa-solid fa-eye"></i></div>
+                        <span>Little Nightmares</span>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Bottom Widgets matching Friends and active status -->
+            <div class="status-section">
+                <div class="friends-widget-btn">
+                    <i class="fa-solid fa-user-group"></i>
+                    <span>Friends</span>
+                    <span class="count-badge">2 online</span>
+                </div>
+                
+                <div class="active-game-widget">
+                    <div class="agw-header">
+                        <div class="agw-icon"><i class="fa-solid fa-fire"></i></div>
+                        <div class="agw-details">
+                            <span class="agw-title">The Finals</span>
+                            <span class="agw-subtitle">3 mins</span>
+                        </div>
+                    </div>
+                    <div class="agw-progress-container">
+                        <div class="agw-progress-bar" style="width: 75%;"></div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header Bar -->
+            <header class="main-header">
+                <div class="brand">
+                    <i class="fa-solid fa-circle-nodes logo-icon"></i>
+                    <span class="brand-name">DealForge</span>
+                </div>
+                
+                <!-- Search Box and Muted Indicators -->
+                <div class="header-search-container">
+                    <div class="search-input-wrapper">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="search-input" placeholder="Search game deals...">
+                    </div>
+                </div>
+            </header>
+
+            <!-- Interactive Filters Dashboard Panel -->
+            <section class="filters-panel">
+                <div class="filter-controls">
+                    <!-- Price Range Slider -->
+                    <div class="filter-group">
+                        <label for="price-range">Max Price: <span id="price-limit-display">Free</span></label>
+                        <div class="price-slider-container">
+                            <input type="range" id="price-range" min="0" max="5000" step="50" value="5000">
+                        </div>
+                    </div>
+
+                    <!-- Sorting Selector -->
+                    <div class="filter-group">
+                        <label for="sort-select">Sort By</label>
+                        <select id="sort-select">
+                            <option value="discount">Biggest Discount</option>
+                            <option value="price-low">Price: Low to High</option>
+                            <option value="rating">Top Rated</option>
+                            <option value="title">Alphabetical</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Dynamic Genre Filtering Tags -->
+                <div class="genre-chips-container">
+                    <span class="filter-label">Filter by Genre:</span>
+                    <div class="chips-grid" id="genre-chips-wrapper">
+                        <!-- Chips will be generated dynamically -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Hero Section (Spotlight Featured Game Deal) -->
+            <section class="hero-section" id="hero-deal-section">
+                <!-- Skeleton Loader for Hero -->
+                <div class="hero-card skeleton-card-hero" id="hero-skeleton">
+                    <div class="hero-visual skeleton-image skeleton-pulse"></div>
+                    <div class="hero-details">
+                        <div class="skeleton-title skeleton-pulse" style="width: 60%; height: 35px; margin-bottom: 1rem;"></div>
+                        <div class="skeleton-subtitle skeleton-pulse" style="width: 40%; height: 18px; margin-bottom: 2rem;"></div>
+                        <div class="skeleton-rating skeleton-pulse" style="width: 30%; height: 20px; margin-bottom: 2rem;"></div>
+                        <div class="skeleton-price skeleton-pulse" style="width: 50%; height: 45px;"></div>
+                    </div>
+                </div>
+
+                <!-- Actual Hero Card (Hidden until loaded) -->
+                <div class="hero-card hidden" id="hero-card-content">
+                    <div class="hero-bg-overlay" id="hero-bg-blur"></div>
+                    <div class="hero-content">
+                        <div class="hero-visual">
+                            <img id="hero-game-img" src="" alt="Spotlight Deal">
+                            <div class="hero-price-pill">
+                                <span class="old-price" id="hero-old-price"></span>
+                                <span class="new-price" id="hero-new-price"></span>
+                            </div>
+                        </div>
+                        <div class="hero-details">
+                            <h1 id="hero-game-title">Hogwarts Legacy</h1>
+                            <p class="subtitle" id="hero-game-dev">Portkey Games</p>
+                            
+                            <div class="hero-rating-row">
+                                <div class="rating-info">
+                                    <i class="fa-solid fa-thumbs-up"></i>
+                                    <span id="hero-rating-pct">94%</span>
+                                    <span class="rating-desc" id="hero-rating-desc">Very Positive</span>
+                                </div>
+                                <span class="reviews-count" id="hero-reviews-count">377,297 reviews</span>
+                            </div>
+
+                            <div class="hero-actions">
+                                <a href="" target="_blank" class="btn btn-primary" id="hero-buy-btn">Buy Now</a>
+                                <button class="btn btn-secondary" id="hero-wishlist-btn">
+                                    <i class="fa-solid fa-circle-plus"></i>
+                                    <span>Wishlist</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Wavy separator line -->
+            <div class="wavy-divider">
+                <svg width="80" height="12" viewBox="0 0 80 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 6C6 6 6 1 12 1C18 1 18 11 24 11C30 11 30 1 36 1C42 1 42 11 48 11C54 11 54 1 60 1C66 1 66 11 72 11C78 11 78 6 84 6" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+            </div>
+
+            <!-- For You Section (Main Scraped Cards Grid) -->
+            <section class="section-container">
+                <h2 class="section-heading">🔥 Forge Picks — Best Value Deals</h2>
+                
+                <!-- Cards Grid -->
+                <div class="cards-grid" id="deals-grid-wrapper">
+                    <!-- Skeletons populated on initial load -->
+                    <div class="rate-card skeleton-card">
+                        <div class="card-image skeleton-image skeleton-pulse"></div>
+                        <div class="card-details">
+                            <div class="skeleton-title skeleton-pulse" style="width: 80%; height: 16px; margin-bottom: 0.5rem;"></div>
+                            <div class="skeleton-subtitle skeleton-pulse" style="width: 50%; height: 12px; margin-bottom: 1rem;"></div>
+                            <div class="skeleton-rating skeleton-pulse" style="width: 60%; height: 12px; margin-bottom: 1.5rem;"></div>
+                            <div class="skeleton-price skeleton-pulse" style="width: 40%; height: 16px; margin-left: auto;"></div>
+                        </div>
+                    </div>
+                    <div class="rate-card skeleton-card">
+                        <div class="card-image skeleton-image skeleton-pulse"></div>
+                        <div class="card-details">
+                            <div class="skeleton-title skeleton-pulse" style="width: 80%; height: 16px; margin-bottom: 0.5rem;"></div>
+                            <div class="skeleton-subtitle skeleton-pulse" style="width: 50%; height: 12px; margin-bottom: 1rem;"></div>
+                            <div class="skeleton-rating skeleton-pulse" style="width: 60%; height: 12px; margin-bottom: 1.5rem;"></div>
+                            <div class="skeleton-price skeleton-pulse" style="width: 40%; height: 16px; margin-left: auto;"></div>
+                        </div>
+                    </div>
+                    <div class="rate-card skeleton-card">
+                        <div class="card-image skeleton-image skeleton-pulse"></div>
+                        <div class="card-details">
+                            <div class="skeleton-title skeleton-pulse" style="width: 80%; height: 16px; margin-bottom: 0.5rem;"></div>
+                            <div class="skeleton-subtitle skeleton-pulse" style="width: 50%; height: 12px; margin-bottom: 1rem;"></div>
+                            <div class="skeleton-rating skeleton-pulse" style="width: 60%; height: 12px; margin-bottom: 1.5rem;"></div>
+                            <div class="skeleton-price skeleton-pulse" style="width: 40%; height: 16px; margin-left: auto;"></div>
+                        </div>
+                    </div>
+                    <div class="rate-card skeleton-card">
+                        <div class="card-image skeleton-image skeleton-pulse"></div>
+                        <div class="card-details">
+                            <div class="skeleton-title skeleton-pulse" style="width: 80%; height: 16px; margin-bottom: 0.5rem;"></div>
+                            <div class="skeleton-subtitle skeleton-pulse" style="width: 50%; height: 12px; margin-bottom: 1rem;"></div>
+                            <div class="skeleton-rating skeleton-pulse" style="width: 60%; height: 12px; margin-bottom: 1.5rem;"></div>
+                            <div class="skeleton-price skeleton-pulse" style="width: 40%; height: 16px; margin-left: auto;"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Wavy separator line -->
+            <div class="wavy-divider">
+                <svg width="80" height="12" viewBox="0 0 80 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 6C6 6 6 1 12 1C18 1 18 11 24 11C30 11 30 1 36 1C42 1 42 11 48 11C54 11 54 1 60 1C66 1 66 11 72 11C78 11 78 6 84 6" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+            </div>
+
+            <!-- Sponsored Section -->
+            <section class="section-container">
+                <h2 class="section-heading"><span class="purple-bullet">•</span> Sponsored / Budget Bargains</h2>
+                <div class="cards-grid" id="budget-deals-wrapper">
+                    <!-- Dynamic budget deals populate here -->
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="app-footer">
+                <div class="footer-divider"></div>
+                <div class="footer-content">
+                    <span class="footer-copyright">© 2026 Nebula Store. Scraped from Steam Specials.</span>
+                    <p class="footer-disclaimer">
+                        DISCLAIMER: All game titles, images, and prices are trademarks of Valve Corporation and their respective publishers. Game deals data is retrieved for educational demonstration purposes only.
+                    </p>
+                </div>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
